@@ -2,12 +2,14 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **AI and ML Bootcamp(#)**
-- 🌱 Learning **[ML Models and AI]**
-- 💬 Ask me about **[Pandas, Scikitlearn, and ML Models]**
-- 📫 Reach me at: **[aakritikc222@gmail.com]**
+- 🔭 I’m currently working on **AI and ML Bootcamp**
+- 🌱 Learning **[Pandas, Scikitlearn, and ML Models]**
+- 💬 Ask me about **[Data warehouse, ETL and Statistical Models]**
 
 ---
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-kc-18319932)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-aakritikc222@gmail.com)
 
 ## 🛠️ My Tech Stack
 Languages:<br>
@@ -46,20 +48,11 @@ Here are some of my best works:
 3. [**Project 3**]  
    _Description: _
 
-## 📊 GitHub Stats
-
-### 🔥 Streaks & Contributions
-![GitHub Streak]
-
-### 🌟 Activity Graph
-![GitHub Stats]
-
 ## 📚 Latest Blog Posts
 - [**Blog Post 1**](https://medium.com/p/c27f2f85b410/edit) : The Ultimate Guide to Data Collection for Data Analysts Using Python
 - [**Blog Post 2**]
 - [**Blog Post 3**]
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/kriti-kc-18319932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="love14" height="30" width="40" /></a> &nbsp;&nbsp;
+
+
 
