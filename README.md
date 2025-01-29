@@ -51,6 +51,7 @@ Here are some of my best works:
 ## 📚 Latest Blog Posts
 - [**Blog Post 1**]([https://medium.com/p/c27f2f85b410/edit](https://medium.com/@aakritikc222/the-ultimate-guide-to-data-collection-for-data-analysts-using-python-c27f2f85b410)) The Ultimate Guide to Data Collection for Data Analysts Using Python
 - [**Blog Post 2**](https://medium.com/@aakritikc222/deepseeks-green-ai-revolution-how-reducing-reliance-on-nvidia-is-helping-the-planet-a15ccde81469) DeepSeek’s Green AI Revolution: How Reducing Reliance on NVIDIA is Helping the Planet
+- [**Blog Post 2**](https://medium.com/@aakritikc222/deepseeks-green-ai-revolution-how-reducing-reliance-on-nvidia-is-helping-the-planet-a15ccde81469) DeepSeek’s Green AI Revolution: How Reducing Reliance on NVIDIA is Helping the Planet
 - [**Blog Post 3**]
 
 
